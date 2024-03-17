@@ -1,1 +1,3 @@
 alert('wokring :)');
+
+  AOS.init();
