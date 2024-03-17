@@ -156,7 +156,13 @@ body {
 
 /* Skill Icons */
 .icon-preview {
-    color: #c50606
+    color: #c50606;
+    transform: scale(1.5);
+    padding-top:1rem;
+}
+
+.skills-content {
+    padding:5px;
 }
 
 footer {

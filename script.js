@@ -1,3 +1,1 @@
-alert('wokring :)');
-
-  AOS.init();
+AOS.init();
